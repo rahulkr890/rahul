@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rahul/static/css/main.c85ab16b.css",
+    "main.css": "/rahul/static/css/main.7feb719d.css",
     "main.js": "/rahul/static/js/main.a64dfb67.js",
     "static/js/787.aae27b05.chunk.js": "/rahul/static/js/787.aae27b05.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/rahul/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -11,12 +11,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/rahul/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/rahul/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/rahul/index.html",
-    "main.c85ab16b.css.map": "/rahul/static/css/main.c85ab16b.css.map",
+    "main.7feb719d.css.map": "/rahul/static/css/main.7feb719d.css.map",
     "main.a64dfb67.js.map": "/rahul/static/js/main.a64dfb67.js.map",
     "787.aae27b05.chunk.js.map": "/rahul/static/js/787.aae27b05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c85ab16b.css",
+    "static/css/main.7feb719d.css",
     "static/js/main.a64dfb67.js"
   ]
 }
